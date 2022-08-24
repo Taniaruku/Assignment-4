@@ -1,0 +1,45 @@
+.header{
+	height:100px;
+	background-color:orange;
+}
+.heading-1{
+	background-color:yellow;
+}
+.heading-2{
+	background-color:grey;
+}
+
+.wrapper{
+	overflow:hidden;
+	border:10px solid black;
+}
+.blog{
+	float:left;
+	width:45%;
+	height:200px;
+	background-color:red;
+}
+.contact{
+	float:right;
+	width:55%;
+	height:200px;
+	background-color:limegreen;
+}
+.box{
+	float:left;
+	height:150px;
+	width:33.33%;
+}
+.yellow{
+	background-color:yellow;
+}
+.green{
+	background-color:aqua;
+}
+.aqua{
+	background-color:pink;
+}
+.footer{
+	height:100px;
+	background-color:grey;
+}
